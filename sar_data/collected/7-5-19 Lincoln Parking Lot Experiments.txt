@@ -1,0 +1,3 @@
+collect_6.prd 20 ft 7.88 seconds 2 corner reflectors offset
+collect_7.prd 20 ft 12.2 seconds 2 corner reflectors in line
+collect_11.prd 26 ft 14.15 Truck w/ 2 corner reflectors
